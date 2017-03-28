@@ -1,8 +1,8 @@
-package android.coolweather.com.coolweather.util;
+package com.coolweather.android.util;
 
-import android.coolweather.com.coolweather.db.City;
-import android.coolweather.com.coolweather.db.County;
-import android.coolweather.com.coolweather.db.Province;
+import com.coolweather.android.db.City;
+import com.coolweather.android.db.County;
+import com.coolweather.android.db.Province;
 import android.text.TextUtils;
 
 import org.json.JSONArray;
